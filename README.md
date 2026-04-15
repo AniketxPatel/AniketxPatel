@@ -4,12 +4,12 @@
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
 ║   "Console.log('I should comment this code'")             ║
-║                                          — me, never      ║
+║                                          - me, never      ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7F77DD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+I'm+Aniket+Patel+%F0%9F%91%8B;Frontend+Engineer+%7C+React+%C2%B7+Next.js+%C2%B7+TypeScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=26&duration=3000&pause=800&color=7F77DD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+I'm+Aniket+Patel+%F0%9F%91%8B;Frontend+Engineer+%7C+React+%C2%B7+Next.js+%C2%B7+TypeScript" alt="Typing SVG" />
 
 <br/>
 
@@ -26,14 +26,14 @@ const aniket = {
   role: "Frontend Engineer",
   location: "Bengaluru, India 🇮🇳",
   stack: ["React", "Next.js", "TypeScript", "Shopify", "Zustand", "TanStack Query"],
-  currentlyBuilding: "Logistics workflows @ Swift — used by 1,000+ daily users",
+  currentlyBuilding: "Logistics workflows @ Swift - used by 1,000+ daily users",
   funFact: "I have fixed bugs by staring at them. Peer pressure works on code too.",
   lifePhilosophy: "Ship fast. Break things. Fix them better. Repeat.",
   availableFor: "Frontend / React / Next.js roles 👀",
 };
 ```
 
-> *"Ek baar aur try karte hain"* — Me at 2AM, on the same bug, for the 6th time.
+> *"Ek baar aur try karte hain"* - Me at 2AM, on the same bug, for the 6th time.
 
 ---
 
@@ -102,7 +102,7 @@ Does it work on mobile? ── No ──▶  [RWD panic mode 🔥]
 | SwiftCheckout v3 | Replaced default Shopify checkout end-to-end |
 | CI/CD pipeline cleanup | 15 min → under 5 min deployments |
 
-> *"Kaam chhota nahi hota"* — every PR counts 🙏
+> *"Kaam chhota nahi hota"* - every PR counts 🙏
 
 ---
 
