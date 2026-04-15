@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=600&color=888780&center=true&vCenter=true&repeat=true&width=700&height=40&lines=Building+fast+UIs+since+college+%F0%9F%9A%80;8%2B+production+apps+shipped+%F0%9F%93%A6;Performance+obsessed%2C+pixel+precise+%F0%9F%8E%AF;1%2C000%2B+daily+users+%E2%80%94+and+counting" alt="Subheading" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=600&color=888780&center=true&vCenter=true&repeat=true&width=700&height=40&lines=Fast+UIs+that+feel+right;Fixing+performance+issues;Building+frontend+that+scales" alt="Subheading" />
 
 </div>
 
